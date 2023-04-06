@@ -7,7 +7,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 Dataset: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
 
-##Hearthquake Visualization
+## Hearthquake Visualization
 
 The map with the earthquake events can be viewed on the link below:
 
